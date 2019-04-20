@@ -1,0 +1,9 @@
+used an online OCR because I couldn't get tesseract to work
+look into getting gocr
+
+find a rotn tool - bookmarked https://www.dcode.fr/rot-cipher
+
+answer was in small letters - make sure to verify case 
+
+Speed up:
+Should have looked for flag format first in the text and focus on decoding that
