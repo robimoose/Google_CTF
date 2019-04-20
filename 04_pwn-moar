@@ -1,0 +1,13 @@
+this one had nc moar.ctfcompetition.com 1337
+
+ran the command
+
+provides the --man output for socat which is more powerful than nc
+
+tried to connect using console without much success.
+
+used xterm - to try and send commands
+
+note for CTFs - normally the flag when jumping boxes is in root or home.  Otherwise you have to look around.
+
+sent a !cat on the home/moar directory and found the CTF within the .sh file.
