@@ -9,3 +9,5 @@ ran binwalk and saw that some files were contained within the .ico
 use -e option to extract the files within the ico
 
 inside there was a .txt file with the flag
+
+Answer: CTF{qeY80sU6Ktko8BJW}
