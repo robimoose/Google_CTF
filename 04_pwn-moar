@@ -11,3 +11,5 @@ used xterm - to try and send commands
 note for CTFs - normally the flag when jumping boxes is in root or home.  Otherwise you have to look around.
 
 sent a !cat on the home/moar directory and found the CTF within the .sh file.
+
+Answer: CTF{SOmething-CATastr0phic}
