@@ -1,3 +1,11 @@
 had to use the www.com file from the floppy exercise
 
 need to install radare2
+
+couldn't get radare2 to produce anything meaningful.
+
+Found another app to decompile - I think I was close but couldn't figure out how to decompile or debug.
+
+eventually used dosbox and outputted the www.com to a .txt file.  Found the flag.
+
+CTF{g00do1dDOS-FTW}
